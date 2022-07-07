@@ -2,3 +2,4 @@
 Gaston Pazos
 Cynthia Rocha
 Florencia Bicca
+Deivid Gonzalez
